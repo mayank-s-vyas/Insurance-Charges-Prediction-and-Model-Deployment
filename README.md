@@ -1,2 +1,15 @@
 # Insurance-Charges-Prediction
-Regression Problem. Insurance Dataset taken from Kaggle.
+
+Problem : Predict the insurance charges based on the given information.
+
+Given Information : 
+1. Age : Age of person
+2. Sex : Gender of person
+3. BMI : Body-Mass Index of the person
+4. Children : How many children person has
+5. Smoker : If person is smokes or not
+6. Region : Location where person belong to
+
+
+
+Dataset taken from Kaggle
