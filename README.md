@@ -1,6 +1,6 @@
 # Insurance-Charges-Prediction
 
-Problem : Predict the insurance charges based on the given information.
+Problem : Predict Insurance charges based on the given information.
 
 Given Information : 
 1. Age : Age of person
