@@ -1,6 +1,7 @@
 # Insurance-Charges-Prediction
 
 Problem : Predict Insurance charges based on the given information.
+Task : Deploy the model on web app using streamlit
 
 Given Information : 
 1. Age : Age of person
