@@ -1,4 +1,4 @@
-# Insurance-Charges-Prediction and Deployment
+# Insurance-Charges-Prediction (Deployed using Streamlit)
 
 Problem : Predict Insurance charges based on the given information.
 Task : Deploy the model on web app using streamlit
